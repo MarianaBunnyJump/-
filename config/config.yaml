@@ -36,7 +36,7 @@ platforms:
     name: "财联社热门"
   - id: "zhihu"
     name: "知乎"
-    - id: "ithome"
+  - id: "ithome"
     name: "IT之家"
   - id: "juejin"
     name: "掘金"
